@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Animal">
+    <Position X="8.25" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIEgAAAgAAAAAAAAAIAIAAAACACAIAggQAoAAAA=</HashCode>
+      <FileName>Animal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Birds">
+    <Position X="3.5" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAIAgAAAAAAAAAAQAAAEAQAAAAAgIAAJEAAA=</HashCode>
+      <FileName>Birds.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fish">
+    <Position X="7.5" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAgAKAgAAQAAAAAAAAAAICAQAAAAggAAAIEAAA=</HashCode>
+      <FileName>Fish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flamingo">
+    <Position X="3.5" Y="12.25" Width="2.25" />
+    <InheritanceLine Type="Birds">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.159" Y="0.048" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AgAAgIAAAAAgNAAAAAAAAABAAAAAAAAAAEgQAAAACAA=</HashCode>
+      <FileName>Flamingo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoldFish">
+    <Position X="8.25" Y="17" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAgIACSAAgNAAABAAAAIAAAAAAAAAAAEgAAAAACAA=</HashCode>
+      <FileName>GoldFish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horse">
+    <Position X="14" Y="12" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAgAIAgAAAAAAAAAAIAAAAAQAEAAAoAAAIEAAA=</HashCode>
+      <FileName>Horse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mammals">
+    <Position X="11.5" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICgAYAgAAAAAAAAAAAAAAEAQAABAAgAAAKEgAA=</HashCode>
+      <FileName>Mammals.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MammalsFish">
+    <Position X="9.5" Y="12.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAJAgABAAAAAAAAAAAAAAQAAAAAgAAAIEAAA=</HashCode>
+      <FileName>MammalsFish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mermaid">
+    <Position X="11" Y="17" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QgAAgIAEAAQgNCAAAAAEAIAAAAAgAAAAAEgAAAACAAA=</HashCode>
+      <FileName>Mermaid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo">
+    <Position X="15" Y="4" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>BAACgIABAABgCAIAAgIAAQAAAQBAAEICgAgkAAAABAE=</HashCode>
+      <FileName>Zoo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
